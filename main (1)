@@ -1,0 +1,5 @@
+0000000000000000000000000000000000000000 bf3c0676aeb8290daaeac3217365bb58ed274b7e KalpAcharya08 <acharyakalp8@gmail.com> 1774093920 +0530	commit (initial): feat: Core Streaming Backend v0.5.0 with Auth, MySQL, and FFmpeg
+bf3c0676aeb8290daaeac3217365bb58ed274b7e 0000000000000000000000000000000000000000 KalpAcharya08 <acharyakalp8@gmail.com> 1774094061 +0530	Branch: renamed refs/heads/master to refs/heads/main
+0000000000000000000000000000000000000000 bf3c0676aeb8290daaeac3217365bb58ed274b7e KalpAcharya08 <acharyakalp8@gmail.com> 1774094061 +0530	Branch: renamed refs/heads/master to refs/heads/main
+bf3c0676aeb8290daaeac3217365bb58ed274b7e 389dfc787077f8574257dabb7a4631827474bbc0 KalpAcharya08 <acharyakalp8@gmail.com> 1774182920 +0530	commit: feat: implement Redis caching for sessions and video metadata
+389dfc787077f8574257dabb7a4631827474bbc0 06e363843921414d759b634cf153b74811315168 KalpAcharya08 <acharyakalp8@gmail.com> 1774504276 +0530	commit: feat: integrate Pexels API for stock videos
